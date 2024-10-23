@@ -11,7 +11,7 @@ class DepanController extends Controller
      */
     public function index()
     {
-        return view('task.landingpage');
+        return view('latihan.profile');
     }
 
     /**

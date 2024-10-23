@@ -86,38 +86,38 @@
       <div class="container">
         <div class="box-foto">
           <div class="box">
-          <img src="{{ asset('img/IMGfoto1.png') }}">
+          <img src="{{ asset('img/IMGfoto1.jpg') }}">
             
             <h3>Cetak Foto</h3>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde, modi.</p>
             <button>Detail</button>
           </div>
           <div class="box">
-          <img src="{{ asset('img/IMGfoto2.png') }}">
+          <img src="{{ asset('img/IMGfoto2.jpg') }}">
             <h3>Edit Foto</h3>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde, modi.</p>
             <button>Detail</button>
           </div>
           <div class="box">
-          <img src="{{ asset('img/IMGfoto3.png') }}">
+          <img src="{{ asset('img/IMGfoto3.jpg') }}">
             <h3>Cetak + edit</h3>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde, modi.</p>
             <button>Detail</button>
           </div>
           <div class="box">
-          <img src="{{ asset('img/IMGfoto4.png') }}">
+          <img src="{{ asset('img/IMGfoto4.jpg') }}">
             <h3>Contoh Foto</h3>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde, modi.</p>
             <button>Detail</button>
           </div>
           <div class="box">
-          <img src="{{ asset('img/IMGfoto5.png') }}">
+          <img src="{{ asset('img/IMGfoto5.jpg') }}">
             <h3>Contoh Foto</h3>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde, modi.</p>
             <button>Detail</button>
           </div>
           <div class="box">
-          <img src="{{ asset('img/IMGfoto6.png') }}">
+          <img src="{{ asset('img/IMGfoto6.jpg') }}">
             <h3>Contoh foto</h3>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde, modi.</p>
             <button>Detail</button>
@@ -178,6 +178,6 @@
     </div>
     
 
-    <script src="{{ asset('js/landing.js') }}"></script>
+    <script src="{{ asset('js/landing.js') }}" defer></script>
   </body>
 </html>
